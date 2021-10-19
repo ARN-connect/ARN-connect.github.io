@@ -4,7 +4,8 @@
     --color-terminal: #292b36;
     --borde-redondo: 4px;
 }
-body { padding: 0; margin: 0; background-color: rgb#333}
+
+body {background-color: #212121;}
 
 .topnav {
     background-color: #333;
