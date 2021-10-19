@@ -45,7 +45,7 @@ body {background-color: #212121;}
 
 @font-face {
   font-family: 'sofia';
-  src: url(https://github.com/ARN-connect/ARN-connect.github.io/blob/main/sofia.ttf);
+  src: url(/sofia.ttf);
 }
 
 h1 { font-family: 'sofia';
