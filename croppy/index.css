@@ -5,7 +5,10 @@
     --borde-redondo: 4px;
 }
 
-body {background-color: #212121;}
+body {
+  background-color: #212121;
+  color: white;
+}
 
 .topnav {
     background-color: #333;
