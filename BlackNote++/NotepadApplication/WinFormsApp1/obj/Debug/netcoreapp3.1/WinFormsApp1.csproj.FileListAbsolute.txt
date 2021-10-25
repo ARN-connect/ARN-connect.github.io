@@ -1,0 +1,9 @@
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\NotepadApplication.Form1.resources
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\NotepadApplication.HTMLPreview.resources
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\carlos\ARN-connect.github.io\BlackNote++\NotepadApplication\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlackNote++",
+    "\\BlackNote++\\NotepadApplication"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\BlackNote++\\NotepadApplication\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
