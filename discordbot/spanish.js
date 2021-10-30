@@ -17,6 +17,7 @@ console.log(decode)
 client.on('messageCreate', async (message) => 
 {
     
+    if(message.author.bot) return;
     if(message.channel.id !== channel_id) return;
     const messagex = await translate(message.channel.content, "en")
     console.log("verified");
