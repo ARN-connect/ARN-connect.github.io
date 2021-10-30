@@ -27,7 +27,7 @@ client.on('messageCreate', async (message) =>
     console.log(data);
     console.log(translated);
 
-    message.channel.send({
+    await message.channel.send({
     channel_id: message.channel.id,
     content: translated,
     message_reference: {
