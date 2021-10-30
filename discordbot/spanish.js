@@ -22,8 +22,8 @@ client.on('messageCreate', async (message) =>
     const messagex = await translate(message.channel.content, "en")
     console.log("verified");
     let data = await axios(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(messagex)}&botname=${encodeURIComponent(bot_name)}&ownername=Arn-Studios&birthplace=Korea`)
-    const translated = await translate(data.message, "es");
-    //const translated = (data.message)
+    //const translated = await translate(data.message, "es");
+    const translated = (data.message)
     console.log(data);
     console.log(translated);
 
